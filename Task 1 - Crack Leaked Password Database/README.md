@@ -1,4 +1,4 @@
-our job is to crack as many passwords as possible with available tools (e.g. use Hashcat). Here are your Task instructions:
+Our job is to crack as many passwords as possible with available tools (e.g. use Hashcat). Here are your Task instructions:
 
 Review the links provided in the additional resources (section 4) below to gain a background understanding of password cracking
 
